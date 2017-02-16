@@ -3027,7 +3027,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .navbar-trans .navbar-logo-dark {
-  content: url(../images/logo-new.png);
+  content: url(../images/infraai_eai_logo.png);
 }
 
 .navbar-trans:not(.navbar-inverse) .navbar-nav li a:focus,
